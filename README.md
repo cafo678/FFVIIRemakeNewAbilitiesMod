@@ -1,6 +1,8 @@
 # FFVIIRemakeNewAbilitiesMod
 ONLY FOR DEMOSTRATION
 
+Mod hard loaded with DLL in the game, data reverse engineered with IDA, Custom Engine version used by square had different alignments founded with ReClassEX, hooks with MinHook.
+
 -- FFVII REMAKE NEW ABILITIES MOD --
 
 What is?
